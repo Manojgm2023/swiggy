@@ -1,2 +1,2 @@
-# Zomoto
+# Swiggy
 Food delivering application
